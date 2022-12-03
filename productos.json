@@ -1,0 +1,142 @@
+[
+	{
+		"_id":"",
+		"name":"Tableta grafica Wacom One Creative Pen display",
+		"category":{
+			"name":"Tabletas graficas",
+			"slug":"tabletas-graficas"
+		},
+		"brand":{
+			"name":"WACOM",
+			"slug":"wacom"
+		},
+		"slug":"tableta-grafica-wacom-one-creative-pen-display",
+		"status":{"$numberInt":"1"}
+	},
+	{
+		"_id": "",
+		"name": "Celular Honor X7 128 GB",
+		"category":{
+			"name": "Celulares",
+			"slug": "celulares",
+		},
+		"brand":{
+			"name": "Honor",
+			"slug": "honor",
+		},		
+		"slug": "celular-honor-x7-128-gb",
+		"status":{"$numberInt":"1"}
+	},
+	{
+		"_id": "",
+		"name": "Laptop HP 14-CF2519LA 14\" Intel Core i3-10110U",
+		"category":{
+			"name": "Laptops",
+			"slug": "laptops"
+		},
+		"brand":{
+			"name": "HP",
+			"slug": "hp"
+		},
+		"slug": "laptop-hp-14-cf2519la-14-intel-core-i3-10110u",
+		"status":{"$numberInt":"1"}
+	},
+	{
+		"_id": "",
+		"name": "Smart TV Philips 4K 50\" LED",
+		"category":{
+			"name": "Televisores",
+			"slug": "televisores"
+		},
+		"brand":{
+			"name": "Philips",
+			"slug": "philips"
+		},
+		"slug": "smart-tv-philips-4k-50-led",
+		"status":{"$numberInt":"1"}
+	}
+	{
+		"_id": "",
+		"name": "Celular Samsung Galaxy A03 Core",
+		"category":{
+			"name": "Celulares",
+			"slug": "celulares"
+		},
+		"brand":{
+			"name": "Samsung",
+			"slug": "samsung"
+		},
+		"slug": "celular-samsung-galaxy-a03-core",
+		"status":{"$numberInt":"1"}
+	},
+	{
+		"_id": "",
+		"name": "iPhone 14 Pro Max 256 GB",
+		"category":{
+			"name": "Celulares",
+			"slug": "celulares"
+		},
+		"brand":{
+			"name": "Apple",
+			"slug": "apple"
+		},
+		"slug": "iphone-14-pro-max-256-gb",
+		"status":{"$numberInt":"1"}
+	},
+	{
+		"_id": "",
+		"name": "Monitor 23.8\" Xiaomi Mi Desktop 1C",
+		"category":{
+			"name": "Monitores",
+			"slug": "monitores"
+		},
+		"brand":{
+			"name": "Xiaomi",
+			"slug": "xiaomi"
+		},
+		"slug": "monitor-238-xiaomi-mi-desktop-1c",
+		"status":{"$numberInt":"1"}
+	},
+	{
+		"_id": "",
+		"name": "Laptop Dell Latitude 3410 I7-10510U",
+		"category":{ 
+			"name": "Laptops",
+			"slug": "laptops"
+		},
+		"brand":{ 
+			"name": "Dell",
+			"slug": "dell"
+		},
+		"slug": "laptop-dell-latitude-3410-i7-10510u",
+		"status":{"$numberInt":"1"}
+	},
+	{
+		"_id": "",
+		"name": "Mando Playstation 5 Dualsense",
+		"category":{ 
+			"name": "Mandos",
+			"slug": "mandos"
+		},
+		"brand":{ 
+			"name": "Playstation", 
+			"slug": "playstation"
+		},
+		"slug": "mando-playstation-5-dualsense",
+		"status":{"$numberInt":"1"}
+	},
+	{
+		"_id": "",
+		"name": "Audífonos bluetooth True Wireless Wave 100 Deep Bass",
+		"category":{ 
+			"name": "Audífonos",
+			"slug": "audifonos"
+		},
+		"brand":{ 
+			"name": "JBL",
+			"slug": "jbl"
+		},
+		"slug": "audifonos-bluetooth-true-wireless-wave-100-deep-bass",
+		"status":{"$numberInt":"1"}
+	}
+]

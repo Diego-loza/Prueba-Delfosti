@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "delfosti-api", "delfosti-api\delfosti-api.csproj", "{247FA1EC-447E-4541-864B-852B9905E169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{247FA1EC-447E-4541-864B-852B9905E169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{247FA1EC-447E-4541-864B-852B9905E169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{247FA1EC-447E-4541-864B-852B9905E169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{247FA1EC-447E-4541-864B-852B9905E169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC65E65E-4F93-4628-B784-25F705B9C931}
+	EndGlobalSection
+EndGlobal
